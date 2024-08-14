@@ -18,11 +18,11 @@ Graphical User Interface (GUI): Easy-to-use interface built with Tkinter for inp
 * Process Input: Allows users to input Process ID, Arrival Time, Burst Time, Priority, and Time Quantum.
 
 ## GUI Components
-* Process ID Entry: Input for process ID.
-* Arrival Time Entry:Input for process arrival time.
-* Burst Time Entry:Input for process burst time.
-* Priority Entry:Input for process priority.
-* Time Quantum Entry:Input for time quantum (used in Round Robin scheduling).
+**Process ID Entry:** Input for process ID.
+**Arrival Time Entry:** Input for process arrival time.
+**Burst Time Entry:** Input for process burst time.
+**Priority Entry:** Input for process priority.
+**Time Quantum Entry:** Input for time quantum (used in Round Robin scheduling).
 ## Buttons:
 **Add Process:** Adds the process to the list.
 **Simulate FCFS:** Simulates FCFS scheduling.
