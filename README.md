@@ -41,8 +41,7 @@ Graphical User Interface (GUI): Easy-to-use interface built with Tkinter for inp
 Round Robin (RR): Each process is given a fixed time quantum and cycles through all processes until completion.
 
 ## Contributing
-Contributions are welcome! 
-
+Contributions are welcome! Please fork the repository and submit a pull request for any changes or improvements.
 ## Author
 -Numa Rahim https://github.com/NumaRahim
 
