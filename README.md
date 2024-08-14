@@ -3,7 +3,7 @@ This project implements a Process Scheduler Algorithm in Python that calculates 
 
 <img width="317" alt="screenshot" src="https://github.com/user-attachments/assets/98bcde17-014f-413c-9e99-3375b0281472">
 
-## Supported algorithms
+### Supported algorithms
 
 * First Come First Serve / FCFS
 * Shortest Job First / SJF (non-preemptive)
@@ -33,7 +33,7 @@ Graphical User Interface (GUI): Easy-to-use interface built with Tkinter for inp
 **Simulate Round Robin:** Simulates Round Robin scheduling.
 
 ## Appendix
-# Scheduling Algorithms Overview
+## Scheduling Algorithms Overview
 * FCFS (First-Come, First-Served): Processes are executed in the order they arrive.
 * SJF (Shortest Job First): Processes with the shortest burst time are executed first.
 * Preemptive SJF: Similar to SJF, but allows interruption of currently running processes if a new process with a shorter burst time arrives.
