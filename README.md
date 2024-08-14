@@ -5,9 +5,9 @@ This project implements a Process Scheduler Algorithm in Python that calculates 
 
 ## Supported algorithms
 
-First Come First Serve / FCFS
-Shortest Job First / SJF (non-preemptive)
-Shortest Remaining Time First / SRTF (preemptive)
-Round-Robin / RR
-Priority (non-preemptive)
-Priority (preemptive)
+* First Come First Serve / FCFS
+* Shortest Job First / SJF (non-preemptive)
+* Shortest Remaining Time First / SRTF (preemptive)
+* Round-Robin / RR
+* Priority (non-preemptive)
+* Priority (preemptive)
