@@ -48,6 +48,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 -Numa Rahim https://github.com/NumaRahim
 
 ## License
+LICENSE
 
 
 
