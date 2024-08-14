@@ -11,3 +11,8 @@ This project implements a Process Scheduler Algorithm in Python that calculates 
 * Round-Robin / RR
 * Priority (non-preemptive)
 * Priority (preemptive)
+
+## Features
+* User-Friendly Interface
+Graphical User Interface (GUI): Easy-to-use interface built with Tkinter for inputting process details and viewing simulation results.
+* Process Input: Allows users to input Process ID, Arrival Time, Burst Time, Priority, and Time Quantum.
