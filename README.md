@@ -33,7 +33,6 @@ Graphical User Interface (GUI): Easy-to-use interface built with Tkinter for inp
 **Simulate Round Robin:** Simulates Round Robin scheduling.
 
 ## Appendix
-## Scheduling Algorithms Overview
 * FCFS (First-Come, First-Served): Processes are executed in the order they arrive.
 * SJF (Shortest Job First): Processes with the shortest burst time are executed first.
 * Preemptive SJF: Similar to SJF, but allows interruption of currently running processes if a new process with a shorter burst time arrives.
