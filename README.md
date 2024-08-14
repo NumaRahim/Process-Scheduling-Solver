@@ -3,7 +3,7 @@ This project implements a Process Scheduler Algorithm in Python that calculates 
 
 <img width="317" alt="screenshot" src="https://github.com/user-attachments/assets/98bcde17-014f-413c-9e99-3375b0281472">
 
-### Supported algorithms
+## Supported algorithms
 
 * First Come First Serve / FCFS
 * Shortest Job First / SJF (non-preemptive)
@@ -17,13 +17,13 @@ This project implements a Process Scheduler Algorithm in Python that calculates 
 Graphical User Interface (GUI): Easy-to-use interface built with Tkinter for inputting process details and viewing simulation results.
 * Process Input: Allows users to input Process ID, Arrival Time, Burst Time, Priority, and Time Quantum.
 
-## GUI Components
+### GUI Components
 **Process ID Entry:** Input for process ID.
 **Arrival Time Entry:** Input for process arrival time.
 **Burst Time Entry:** Input for process burst time.
 **Priority Entry:** Input for process priority.
 **Time Quantum Entry:** Input for time quantum (used in Round Robin scheduling).
-## Buttons:
+### Buttons:
 **Add Process:** Adds the process to the list.
 **Simulate FCFS:** Simulates FCFS scheduling.
 **Simulate SJF:** Simulates SJF scheduling.
