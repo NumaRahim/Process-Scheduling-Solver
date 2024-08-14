@@ -18,11 +18,11 @@ Graphical User Interface (GUI): Easy-to-use interface built with Tkinter for inp
 * Process Input: Allows users to input Process ID, Arrival Time, Burst Time, Priority, and Time Quantum.
 
 ## GUI Components
-**Process ID Entry:** Input for process ID.
-**Arrival Time Entry:** Input for process arrival time.
-**Burst Time Entry:** Input for process burst time.
-**Priority Entry:** Input for process priority.
-**Time Quantum Entry:** Input for time quantum (used in Round Robin scheduling).
+* Process ID Entry: Input for process ID.
+* Arrival Time Entry:Input for process arrival time.
+* Burst Time Entry:Input for process burst time.
+* Priority Entry:Input for process priority.
+* Time Quantum Entry:Input for time quantum (used in Round Robin scheduling).
 ## Buttons:
 **Add Process:** Adds the process to the list.
 **Simulate FCFS:** Simulates FCFS scheduling.
@@ -32,12 +32,6 @@ Graphical User Interface (GUI): Easy-to-use interface built with Tkinter for inp
 **Simulate Priority Preemptive:** Simulates Preemptive Priority scheduling.
 **Simulate Round Robin:** Simulates Round Robin scheduling.
 
-## Contributing
-Contributions are welcome! 
-
-## Author
--Numa Rahim https://github.com/NumaRahim
-
 ## Appendix
 # Scheduling Algorithms Overview
 * FCFS (First-Come, First-Served): Processes are executed in the order they arrive.
@@ -46,6 +40,12 @@ Contributions are welcome!
 * Priority Scheduling: Processes are executed based on their priority. Lower priority numbers are executed first.
 * Preemptive Priority Scheduling: Allows interruption of currently running processes if a new process with a higher priority arrives.
 Round Robin (RR): Each process is given a fixed time quantum and cycles through all processes until completion.
+
+## Contributing
+Contributions are welcome! 
+
+## Author
+-Numa Rahim https://github.com/NumaRahim
 
 ## License
 
